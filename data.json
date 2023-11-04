@@ -1,0 +1,2941 @@
+{
+    "questions": [
+        {
+            "question": "When did Louis XIV begin to centralize authority in France and its holdings?",
+            "options": [
+                "1650s",
+                "1660s",
+                "1670s",
+                "1680s"
+            ],
+            "answer": "1660s",
+            "id": 0
+        },
+        {
+            "question": "What was the primary religion of the homogeneous population established in New France?",
+            "options": [
+                "Protestant",
+                "Catholic",
+                "Anglican",
+                "Orthodox"
+            ],
+            "answer": "Catholic",
+            "id": 1
+        },
+        {
+            "question": "By what year did New France reach its peak expansion from Newfoundland to the Rocky Mountains?",
+            "options": [
+                "1712",
+                "1701",
+                "1720",
+                "1750"
+            ],
+            "answer": "1712",
+            "id": 2
+        },
+        {
+            "question": "What was the primary geographical feature of Acadia?",
+            "options": [
+                "Mountains",
+                "Plains",
+                "Lakes",
+                "Water bodies"
+            ],
+            "answer": "Water bodies",
+            "id": 3
+        },
+        {
+            "question": "Which European power enjoyed a significant advantage in the Atlantic fisheries due to the Azores?",
+            "options": [
+                "Spain",
+                "Portugal",
+                "France",
+                "Great Britain"
+            ],
+            "answer": "Portugal",
+            "id": 4
+        },
+        {
+            "question": "What year marks the founding of Port-Royal in Acadia?",
+            "options": [
+                "1604",
+                "1605",
+                "1606",
+                "1607"
+            ],
+            "answer": "1605",
+            "id": 5
+        },
+        {
+            "question": "What is the Anglicized version of the name 'Acadiens'?",
+            "options": [
+                "Arcadians",
+                "Acadians",
+                "Cajuns",
+                "Canadiens"
+            ],
+            "answer": "Acadians",
+            "id": 6
+        },
+        {
+            "question": "What is the French term for the Acadian Expulsion?",
+            "options": [
+                "Le Grand Exil",
+                "Le Grand Voyage",
+                "Le Grand D\u00e9rangement",
+                "Le Grand D\u00e9part"
+            ],
+            "answer": "Le Grand D\u00e9rangement",
+            "id": 7
+        },
+        {
+            "question": "From which region of France did the first settlers of Acadia originate?",
+            "options": [
+                "Normandy",
+                "Vienne",
+                "Brittany",
+                "\u00cele-de-France"
+            ],
+            "answer": "Vienne",
+            "id": 8
+        },
+        {
+            "question": "Who was the Catholic governor involved in the Acadien civil war in 1640?",
+            "options": [
+                "Charles de Menou d\u2019Aulnay de Charnisay",
+                "Charles de Saint-\u00c9tienne de la Tour",
+                "Fran\u00e7oise-Marie Jacquelin",
+                "None of the above"
+            ],
+            "answer": "Charles de Menou d\u2019Aulnay de Charnisay",
+            "id": 9
+        },
+        {
+            "question": "Which indigenous confederacy was involved in the Acadien civil war?",
+            "options": [
+                "Iroquois Confederacy",
+                "Wabanaki Confederacy",
+                "Powhatan Confederacy",
+                "Algonquin Confederacy"
+            ],
+            "answer": "Wabanaki Confederacy",
+            "id": 10
+        },
+        {
+            "question": "What year did the British burn Port-Royal to the ground?",
+            "options": [
+                "1613",
+                "1621",
+                "1635",
+                "1642"
+            ],
+            "answer": "1613",
+            "id": 11
+        },
+        {
+            "question": "Which Acadien settlement was associated with the Protestant governor Charles de Saint-\u00c9tienne de la Tour?",
+            "options": [
+                "Port-Royal",
+                "Saint John",
+                "Sable Island",
+                "Ste. Croix"
+            ],
+            "answer": "Saint John",
+            "id": 12
+        },
+        {
+            "question": "Who led the defense of La Tour's settlement during d\u2019Aulnay's siege?",
+            "options": [
+                "Charles de Menou d\u2019Aulnay de Charnisay",
+                "Charles de Saint-\u00c9tienne de la Tour",
+                "Fran\u00e7oise-Marie Jacquelin",
+                "None of the above"
+            ],
+            "answer": "Fran\u00e7oise-Marie Jacquelin",
+            "id": 13
+        },
+        {
+            "question": "What was a primary reason why the Wabanaki Confederacy preferred the French over the English?",
+            "options": [
+                "Religious affinity",
+                "Cultural similarities",
+                "The French posed fewer threats",
+                "Military alliances"
+            ],
+            "answer": "The French posed fewer threats",
+            "id": 14
+        },
+        {
+            "question": "Which culture in North America is considered to be one of the oldest European-descended cultures?",
+            "options": [
+                "Cajun",
+                "Acadien",
+                "French Canadian",
+                "British American"
+            ],
+            "answer": "Acadien",
+            "id": 15
+        },
+        {
+            "question": "When did the French first establish a viable presence in Acadia?",
+            "options": [
+                "1604",
+                "1599",
+                "1605",
+                "1613"
+            ],
+            "answer": "1605",
+            "id": 16
+        },
+        {
+            "question": "What was the name of the territory that became known as Acadia in the 16th century European maps?",
+            "options": [
+                "Arcadia",
+                "L'Acadie",
+                "Newfoundland",
+                "Port-Royal"
+            ],
+            "answer": "Arcadia",
+            "id": 17
+        },
+        {
+            "question": "Which area did Acadia NOT stretch to?",
+            "options": [
+                "The south coast of Newfoundland",
+                "The Rocky Mountains",
+                "New Brunswick",
+                "Prince Edward Island"
+            ],
+            "answer": "The Rocky Mountains",
+            "id": 18
+        },
+        {
+            "question": "What is the Anglicized version of 'Acadiens'?",
+            "options": [
+                "Acadia",
+                "Cajuns",
+                "L'Acadie",
+                "Acadian"
+            ],
+            "answer": "Acadian",
+            "id": 19
+        },
+        {
+            "question": "From which region in France did the first French settlers of Acadia originate?",
+            "options": [
+                "Vienne",
+                "Normandy",
+                "Paris",
+                "Poitiers"
+            ],
+            "answer": "Vienne",
+            "id": 20
+        },
+        {
+            "question": "In what year did a British force from Virginia burn down Port-Royal?",
+            "options": [
+                "1605",
+                "1613",
+                "1640",
+                "1645"
+            ],
+            "answer": "1613",
+            "id": 21
+        },
+        {
+            "question": "Who was the Catholic governor loyal to during the Acadien civil war?",
+            "options": [
+                "Charles de Menou d\u2019Aulnay de Charnisay",
+                "Charles de Saint-\u00c9tienne de la Tour",
+                "Fran\u00e7oise-Marie Jacquelin",
+                "Madame La Tour"
+            ],
+            "answer": "Charles de Menou d\u2019Aulnay de Charnisay",
+            "id": 22
+        },
+        {
+            "question": "What was the distance that separated the areas governed by the two competitive governors in Acadia?",
+            "options": [
+                "23 kilometres",
+                "23 miles",
+                "30 kilometres",
+                "30 miles"
+            ],
+            "answer": "23 kilometres",
+            "id": 23
+        },
+        {
+            "question": "What was the name of Charles de la Tour\u2019s wife who led the defending troops?",
+            "options": [
+                "Madame La Tour",
+                "Fran\u00e7oise-Marie Jacquelin",
+                "Jacquelin de la Tour",
+                "Marie de la Tour"
+            ],
+            "answer": "Fran\u00e7oise-Marie Jacquelin",
+            "id": 24
+        },
+        {
+            "question": "Which confederacy grafted the Acadiens onto their lives and struggles?",
+            "options": [
+                "Iroquois Confederacy",
+                "Wabanaki Confederacy",
+                "Algonquin Confederacy",
+                "Huron Confederacy"
+            ],
+            "answer": "Wabanaki Confederacy",
+            "id": 25
+        },
+        {
+            "question": "What was a key reason the Wabanaki Confederacy preferred the French over the English?",
+            "options": [
+                "Cultural similarities",
+                "Military power",
+                "French posed fewer threats",
+                "Religious reasons"
+            ],
+            "answer": "French posed fewer threats",
+            "id": 26
+        },
+        {
+            "question": "By the late 17th century, many of which indigenous group had converted to Catholicism?",
+            "options": [
+                "Mi\u2019kmaqs",
+                "Maliseet",
+                "Abenaki",
+                "Penobscot"
+            ],
+            "answer": "Mi\u2019kmaqs",
+            "id": 27
+        },
+        {
+            "question": "What event is known in French as 'Le Grand D\u00e9rangement'?",
+            "options": [
+                "The Acadian Expulsion",
+                "The Acadien Civil War",
+                "The French Settlement of Port-Royal",
+                "The Burning of Port-Royal"
+            ],
+            "answer": "The Acadian Expulsion",
+            "id": 28
+        },
+        {
+            "question": "What region do the Acadien people in the Maritimes continue to influence?",
+            "options": [
+                "Regional cultures",
+                "European cultures",
+                "British Administration",
+                "French Settlements"
+            ],
+            "answer": "Regional cultures",
+            "id": 29
+        },
+        {
+            "question": "What is the cultural evolution of the term 'Acadiens' in Louisiana known as?",
+            "options": [
+                "Cajuns",
+                "L'Acadians",
+                "Nova Scotians",
+                "Creoles"
+            ],
+            "answer": "Cajuns",
+            "id": 30
+        },
+        {
+            "question": "What marked the end of New France's control over its North American territories?",
+            "options": [
+                "Signing of the Treaty of Utrecht",
+                "The French Revolution",
+                "The conclusion of the Seven Years' War",
+                "The War of Spanish Succession"
+            ],
+            "answer": "The conclusion of the Seven Years' War",
+            "id": 31
+        },
+        {
+            "question": "What year did New France's territory reach its peak expansion?",
+            "options": [
+                "1605",
+                "1712",
+                "1763",
+                "1620"
+            ],
+            "answer": "1712",
+            "id": 32
+        },
+        {
+            "question": "Which colony was not part of the five colonies that made up New France?",
+            "options": [
+                "Canada",
+                "Acadia",
+                "Virginia",
+                "Louisiana"
+            ],
+            "answer": "Virginia",
+            "id": 33
+        },
+        {
+            "question": "Which European power did not establish a position in Acadia in the 16th century?",
+            "options": [
+                "The Dutch",
+                "The Portuguese",
+                "The British",
+                "Both Portuguese and British"
+            ],
+            "answer": "The Dutch",
+            "id": 34
+        },
+        {
+            "question": "Which island chain did the Portuguese use as a stopover en route to the Grand Banks?",
+            "options": [
+                "The Canary Islands",
+                "The Balearic Islands",
+                "The Azores",
+                "The Madeira Islands"
+            ],
+            "answer": "The Azores",
+            "id": 35
+        },
+        {
+            "question": "In what year was Port-Royal founded?",
+            "options": [
+                "1600",
+                "1605",
+                "1610",
+                "1604"
+            ],
+            "answer": "1605",
+            "id": 36
+        },
+        {
+            "question": "What was the original name given by European maps to the territory that became Acadia?",
+            "options": [
+                "Arcadia",
+                "Nova Scotia",
+                "New France",
+                "L'Acadie"
+            ],
+            "answer": "Arcadia",
+            "id": 37
+        },
+        {
+            "question": "Which present-day Canadian province was Port-Royal located in?",
+            "options": [
+                "Quebec",
+                "Ontario",
+                "Nova Scotia",
+                "New Brunswick"
+            ],
+            "answer": "Nova Scotia",
+            "id": 38
+        },
+        {
+            "question": "What is the correct term for the people of Acadia?",
+            "options": [
+                "Acadien",
+                "Acadians",
+                "Cajuns",
+                "Arcadians"
+            ],
+            "answer": "Acadiens",
+            "id": 39
+        },
+        {
+            "question": "Which term did the deported Acadiens evolve into upon their settlement in Louisiana?",
+            "options": [
+                "Acadiens",
+                "L'Acadiens",
+                "Cajuns",
+                "Arcadians"
+            ],
+            "answer": "Cajuns",
+            "id": 40
+        },
+        {
+            "question": "From which region of France did the majority of the early settlers of Acadia come?",
+            "options": [
+                "Normandy",
+                "Brittany",
+                "Vienne",
+                "Burgundy"
+            ],
+            "answer": "Vienne",
+            "id": 41
+        },
+        {
+            "question": "What was the year of the British attack that burned down Port-Royal?",
+            "options": [
+                "1608",
+                "1613",
+                "1632",
+                "1645"
+            ],
+            "answer": "1613",
+            "id": 42
+        },
+        {
+            "question": "What significant event occurred in 1645?",
+            "options": [
+                "Founding of Port-Royal",
+                "The Acadien Civil War",
+                "The siege of Saint John",
+                "The Treaty of Utrecht"
+            ],
+            "answer": "The siege of Saint John",
+            "id": 43
+        },
+        {
+            "question": "Who were the two competitive governors of Acadia?",
+            "options": [
+                "Governors d\u2019Aulnay and La Tour",
+                "Governors Frontenac and Champlain",
+                "Governors Bienville and Iberville",
+                "Governors Cartier and Champlain"
+            ],
+            "answer": "Governors d\u2019Aulnay and La Tour",
+            "id": 44
+        },
+        {
+            "question": "Who was known as the 'Lioness of La Tour'?",
+            "options": [
+                "Fran\u00e7oise-Marie Jacquelin",
+                "Madame La Tour",
+                "Anne of Brittany",
+                "Jacqueline de la Tour"
+            ],
+            "answer": "Fran\u00e7oise-Marie Jacquelin",
+            "id": 45
+        },
+        {
+            "question": "What was the main indigenous confederacy involved with the Acadiens?",
+            "options": [
+                "The Algonquin Confederacy",
+                "The Haudenosaunee Confederacy",
+                "The Wabanaki Confederacy",
+                "The Confederacy of the Great Lakes"
+            ],
+            "answer": "The Wabanaki Confederacy",
+            "id": 46
+        },
+        {
+            "question": "What was the reason the Wabanaki Confederacy preferred French allies over English?",
+            "options": [
+                "Religious conversion efforts",
+                "Trade agreements",
+                "Military alliances",
+                "The lesser threat posed by the French"
+            ],
+            "answer": "The lesser threat posed by the French",
+            "id": 47
+        },
+        {
+            "question": "Which indigenous group had many members convert to Catholicism by the late 17th century?",
+            "options": [
+                "The Mi\u2019kmaq",
+                "The Huron",
+                "The Cree",
+                "The Mohawk"
+            ],
+            "answer": "The Mi\u2019kmaq",
+            "id": 48
+        },
+        {
+            "question": "Which phrase refers to the forced removal of the Acadiens?",
+            "options": [
+                "The Great Upheaval",
+                "The Acadian Exodus",
+                "Le Grand D\u00e9rangement",
+                "The Big Displacement"
+            ],
+            "answer": "Le Grand D\u00e9rangement",
+            "id": 49
+        },
+        {
+            "question": "What is the modern-day region where Acadien culture remains influential?",
+            "options": [
+                "The Maritime provinces",
+                "The Canadian Shield",
+                "The Quebec region",
+                "The New England area"
+            ],
+            "answer": "The Maritime provinces",
+            "id": 50
+        },
+        {
+            "question": "What type of support did La Tour seek from New England when his fortunes were slipping?",
+            "options": [
+                "Military support",
+                "Financial support and muscle",
+                "Spiritual guidance",
+                "Educational resources"
+            ],
+            "answer": "Financial support and muscle",
+            "id": 51
+        },
+        {
+            "question": "What was the rare occurrence in the French Catholic colonies that reflects its religious flexibility?",
+            "options": [
+                "The appointment of a Protestant governor",
+                "The absence of resident priests",
+                "Both the appointment of a Protestant governor and the absence of resident priests",
+                "Frequent religious congregations"
+            ],
+            "answer": "Both the appointment of a Protestant governor and the absence of resident priests",
+            "id": 52
+        },
+        {
+            "question": "What was Governor d'Aulnay's highest achievement?",
+            "options": [
+                "Building a large fleet",
+                "Draining the salt marshes",
+                "Creating an educational system",
+                "Establishing a new religion"
+            ],
+            "answer": "Draining the salt marshes",
+            "id": 53
+        },
+        {
+            "question": "What was the outcome of the conflict between d'Aulnay and La Tour?",
+            "options": [
+                "A permanent state of war",
+                "Reconciliation through La Tour's marriage to d'Aulnay's widow",
+                "La Tour's execution",
+                "The division of Acadia"
+            ],
+            "answer": "Reconciliation through La Tour's marriage to d'Aulnay's widow",
+            "id": 54
+        },
+        {
+            "question": "What made the Fortress of Louisbourg significant?",
+            "options": [
+                "It was the first station to use radio",
+                "It was located on \u00cele Royale, built in 1713",
+                "It was built entirely by the Acadiens",
+                "It never saw conflict"
+            ],
+            "answer": "It was located on \u00cele Royale, built in 1713",
+            "id": 55
+        },
+        {
+            "question": "Why were settlements slow to emerge in Newfoundland?",
+            "options": [
+                "Due to harsh weather conditions",
+                "Because European nations used it as a training ground for navy recruits",
+                "Lack of interest from European powers",
+                "Constant conflict with indigenous peoples"
+            ],
+            "answer": "Because European nations used it as a training ground for navy recruits",
+            "id": 56
+        },
+        {
+            "question": "What drew French sailors to Plaisance?",
+            "options": [
+                "The temperate climate",
+                "The rocky beaches suitable for drying fish",
+                "Gold deposits",
+                "The natural harbor for defense"
+            ],
+            "answer": "The rocky beaches suitable for drying fish",
+            "id": 57
+        },
+        {
+            "question": "Who established the French settlement at Tadoussac?",
+            "options": [
+                "Fran\u00e7ois Grav\u00e9 du Pont and Pierre de Chauvin de Tonnetuit",
+                "Samuel de Champlain and Jacques Cartier",
+                "Louis XIII and Cardinal Richelieu",
+                "Henry IV and Marquis de la Roche"
+            ],
+            "answer": "Fran\u00e7ois Grav\u00e9 du Pont and Pierre de Chauvin de Tonnetuit",
+            "id": 58
+        },
+        {
+            "question": "What does the 'H' in the Montreal Canadiens' crest stand for?",
+            "options": [
+                "Habitants",
+                "Hockey",
+                "H\u00e9ritage",
+                "Honour"
+            ],
+            "answer": "Habitants",
+            "id": 59
+        },
+        {
+            "question": "In what year did Champlain establish the settlement of Quebec?",
+            "options": [
+                "1600",
+                "1603",
+                "1609",
+                "1615"
+            ],
+            "answer": "1609",
+            "id": 60
+        },
+        {
+            "question": "What did Champlain do to sustain the French presence in Quebec?",
+            "options": [
+                "He built a fortified settlement and established alliances with local tribes",
+                "He discovered a gold mine",
+                "He converted to the local religion",
+                "He started a large scale fishing operation"
+            ],
+            "answer": "He built a fortified settlement and established alliances with local tribes",
+            "id": 61
+        },
+        {
+            "question": "Which Native American leader did Champlain meet at Tadoussac?",
+            "options": [
+                "Begourat",
+                "Iroquet",
+                "Outchetaguin",
+                "Tadodaho"
+            ],
+            "answer": "Begourat",
+            "id": 62
+        },
+        {
+            "question": "Who did the French establish an alliance with against the Haudenosaunee?",
+            "options": [
+                "The Om\u00e0miwinini and the Wendat",
+                "The Innu and the Montagnais",
+                "The Algonquin and the Huron",
+                "All of the above"
+            ],
+            "answer": "All of the above",
+            "id": 63
+        },
+        {
+            "question": "Why did the French ally with native tribes?",
+            "options": [
+                "For military protection",
+                "To learn agricultural techniques",
+                "To engage in the fur trade",
+                "To spread Christianity"
+            ],
+            "answer": "To engage in the fur trade",
+            "id": 64
+        },
+        {
+            "question": "What was the impact of Champlain's death in 1635?",
+            "options": [
+                "The end of the fur trade",
+                "The collapse of French alliances with native tribes",
+                "The withdrawal of the French from North America",
+                "None of the above"
+            ],
+            "answer": "None of the above",
+            "id": 65
+        },
+        {
+            "question": "Who did La Tour seek support from when his fortunes were slipping?",
+            "options": [
+                "The Wabanaki",
+                "His family",
+                "Fellow Protestant network in the New England port",
+                "French Catholic missionaries"
+            ],
+            "answer": "Fellow Protestant network in the New England port",
+            "id": 66
+        },
+        {
+            "question": "What did official French Catholicism in the colonies permit?",
+            "options": [
+                "It permitted only Catholic governors",
+                "It did not permit any Protestant governors",
+                "It permitted a Protestant governor",
+                "It permitted resident priests only"
+            ],
+            "answer": "It permitted a Protestant governor",
+            "id": 67
+        },
+        {
+            "question": "What was d\u2019Aulnay\u2019s highest achievement as governor?",
+            "options": [
+                "Building Fortress of Louisbourg",
+                "The draining of the salt marshes",
+                "Leading Wabanaki troops",
+                "Marrying La Tour\u2019s widow"
+            ],
+            "answer": "The draining of the salt marshes",
+            "id": 68
+        },
+        {
+            "question": "Which of the following best describes Acadia's economy?",
+            "options": [
+                "Isolated and traditional",
+                "Integrative and imaginative",
+                "Dependent on France",
+                "Solely based on fishery"
+            ],
+            "answer": "Integrative and imaginative",
+            "id": 69
+        },
+        {
+            "question": "What was the result of the conflict between d\u2019Aulnay and La Tour?",
+            "options": [
+                "Continuation of the civil war",
+                "La Tour was executed",
+                "d\u2019Aulnay exiled La Tour",
+                "Reconciliation through marriage"
+            ],
+            "answer": "Reconciliation through marriage",
+            "id": 70
+        },
+        {
+            "question": "What geographic challenges did Acadia face?",
+            "options": [
+                "Desertification of lands",
+                "Landlocked with no access to sea",
+                "Vulnerability due to land and sea frontiers",
+                "Overpopulation and urban sprawl"
+            ],
+            "answer": "Vulnerability due to land and sea frontiers",
+            "id": 71
+        },
+        {
+            "question": "Where was Fort Castine located?",
+            "options": [
+                "On the Penobscot River in central Maine",
+                "At the mouth of the Saint John River",
+                "Near the Bay of Fundy",
+                "On \u00cele Royale"
+            ],
+            "answer": "On the Penobscot River in central Maine",
+            "id": 72
+        },
+        {
+            "question": "What did the Treaty of Utrecht (1713) result in for the French?",
+            "options": [
+                "They gained control over Newfoundland",
+                "They began the fortification of Placentia",
+                "They lost their position in Newfoundland",
+                "They established the Fortress of Louisbourg"
+            ],
+            "answer": "They lost their position in Newfoundland",
+            "id": 73
+        },
+        {
+            "question": "What did the French use Tadoussac primarily for?",
+            "options": [
+                "A military outpost",
+                "Hunting seals and whales",
+                "Agricultural development",
+                "Trading post for furs"
+            ],
+            "answer": "Hunting seals and whales",
+            "id": 74
+        },
+        {
+            "question": "Who were Fran\u00e7ois Grav\u00e9 du Pont and Pierre de Chauvin de Tonnetuit?",
+            "options": [
+                "Governors of New France",
+                "English explorers",
+                "Leaders in establishing the first fur-trade monopoly",
+                "French military commanders"
+            ],
+            "answer": "Leaders in establishing the first fur-trade monopoly",
+            "id": 75
+        },
+        {
+            "question": "What conflict did Champlain become involved in during his 1609 visit?",
+            "options": [
+                "The Seven Years' War",
+                "The conflict with the Mohawk",
+                "The French and Indian War",
+                "The War of the Spanish Succession"
+            ],
+            "answer": "The conflict with the Mohawk",
+            "id": 76
+        },
+        {
+            "question": "What does the 'H' in the Montreal Canadiens' logo stand for?",
+            "options": [
+                "Hockey",
+                "Habitants",
+                "Heritage",
+                "Honor"
+            ],
+            "answer": "Habitants",
+            "id": 77
+        },
+        {
+            "question": "Who were referred to as 'Canadiens' before the Conquest?",
+            "options": [
+                "People in the colony of Canada with English ancestry",
+                "People in the colony of Canada with French ancestry",
+                "Indigenous people of the St. Lawrence Valley",
+                "British colonists in New France"
+            ],
+            "answer": "People in the colony of Canada with French ancestry",
+            "id": 78
+        },
+        {
+            "question": "In what year did Champlain begin establishing a forward post at Quebec?",
+            "options": [
+                "1600",
+                "1609",
+                "1615",
+                "1627"
+            ],
+            "answer": "1609",
+            "id": 79
+        },
+        {
+            "question": "Which European monarch granted the first fur-trade monopoly?",
+            "options": [
+                "King Henry IV of France",
+                "King Louis XIII of France",
+                "Queen Elizabeth I of England",
+                "King Philip II of Spain"
+            ],
+            "answer": "King Henry IV of France",
+            "id": 80
+        },
+        {
+            "question": "Why did the French crown take a greater role in the administration of New France after 1627?",
+            "options": [
+                "Because of the fur trade monopoly's failure",
+                "Due to Champlain's request",
+                "Following a war with the English",
+                "After the Treaty of Utrecht"
+            ],
+            "answer": "Because of the fur trade monopoly's failure",
+            "id": 81
+        },
+        {
+            "question": "What aspect of the land made agriculture in New France difficult?",
+            "options": [
+                "The climate was too cold for crops",
+                "There were too many forests to clear",
+                "The soil was too rocky and infertile",
+                "There was a lack of farming technology"
+            ],
+            "answer": "The soil was too rocky and infertile",
+            "id": 82
+        },
+        {
+            "question": "What was the focus of the early economy in New France?",
+            "options": [
+                "Manufacturing",
+                "Agriculture",
+                "Fur trade",
+                "Gold mining"
+            ],
+            "answer": "Fur trade",
+            "id": 83
+        },
+        {
+            "question": "What was the Compagnie des Cent-Associ\u00e9s?",
+            "options": [
+                "A military alliance",
+                "A religious order",
+                "An agricultural collective",
+                "A trading company"
+            ],
+            "answer": "A trading company",
+            "id": 84
+        },
+        {
+            "question": "Who established the first French settlement at Port Royal?",
+            "options": [
+                "Pierre Dugua, Sieur de Mons",
+                "Jacques Cartier",
+                "Samuel de Champlain",
+                "Fran\u00e7ois Grav\u00e9 du Pont"
+            ],
+            "answer": "Pierre Dugua, Sieur de Mons",
+            "id": 85
+        },
+        {
+            "question": "What made New France different from Spanish and English colonies?",
+            "options": [
+                "It had no permanent settlements",
+                "It was solely a military outpost",
+                "It had a strong fur trade and was less focused on agriculture",
+                "It had no contact with indigenous peoples"
+            ],
+            "answer": "It had a strong fur trade and was less focused on agriculture",
+            "id": 86
+        },
+        {
+            "question": "What was the primary reason for the slow population growth in New France?",
+            "options": [
+                "High mortality rates due to disease",
+                "Lack of interest from the French",
+                "Continuous warfare with indigenous peoples",
+                "Harsh climate and living conditions"
+            ],
+            "answer": "Lack of interest from the French",
+            "id": 87
+        },
+        {
+            "question": "What did Jean Talon do to encourage population growth?",
+            "options": [
+                "Introduced cash incentives for large families",
+                "Mandated the construction of schools",
+                "Banned the fur trade to encourage farming",
+                "Forced military personnel to settle and farm"
+            ],
+            "answer": "Introduced cash incentives for large families",
+            "id": 88
+        },
+        {
+            "question": "What was the Great Peace of Montreal?",
+            "options": [
+                "A treaty with the British",
+                "A declaration of French sovereignty",
+                "An end to hostilities between the French and several indigenous groups",
+                "The establishment of a fur trade monopoly"
+            ],
+            "answer": "An end to hostilities between the French and several indigenous groups",
+            "id": 89
+        },
+        {
+            "question": "What was the primary role of women in New France?",
+            "options": [
+                "Diplomatic relations",
+                "Education and literacy",
+                "Agricultural labor",
+                "Managing households and raising children"
+            ],
+            "answer": "Managing households and raising children",
+            "id": 90
+        },
+        {
+            "question": "What was the primary cause of the slow population growth in New France?",
+            "options": [
+                "Harsh winters",
+                "Diseases like scurvy",
+                "Lack of interest from the French",
+                "Warfare with the Haudenosaunee"
+            ],
+            "answer": "Lack of interest from the French",
+            "id": 91
+        },
+        {
+            "question": "What was l'Ordre de Bon Temps?",
+            "options": [
+                "A military order",
+                "An agricultural program",
+                "A social and entertainment club",
+                "A trade agreement"
+            ],
+            "answer": "A social and entertainment club",
+            "id": 92
+        },
+        {
+            "question": "What was the status of Samuel de Champlain's marriage with H\u00e9l\u00e8ne Boull\u00e9 during its early years?",
+            "options": [
+                "They were happily married",
+                "It was a marriage of convenience for a dowry",
+                "They were separated",
+                "It was annulled"
+            ],
+            "answer": "It was a marriage of convenience for a dowry",
+            "id": 93
+        },
+        {
+            "question": "What did Samuel de Champlain do when he was faced with harsh winters in Acadia?",
+            "options": [
+                "Established l'Ordre de Bon Temps",
+                "Left Acadia for France",
+                "Negotiated with local Indigenous peoples",
+                "Focused on mapping and exploration"
+            ],
+            "answer": "Established l'Ordre de Bon Temps",
+            "id": 94
+        },
+        {
+            "question": "What year did Samuel de Champlain die?",
+            "options": [
+                "1625",
+                "1635",
+                "1645",
+                "1655"
+            ],
+            "answer": "1635",
+            "id": 95
+        },
+        {
+            "question": "Who did Champlain adopt as his daughters?",
+            "options": [
+                "Children from France",
+                "Daughters of the French nobility",
+                "Daughters from the Algonquin nation",
+                "Children of the Haudenosaunee"
+            ],
+            "answer": "Daughters from the Algonquin nation",
+            "id": 96
+        },
+        {
+            "question": "What was a major consequence of Wendake's collapse for New France?",
+            "options": [
+                "It initiated a period of peace",
+                "It disrupted the trade network",
+                "It increased French dependence on Indigenous nations",
+                "It improved relations with the Haudenosaunee"
+            ],
+            "answer": "It disrupted the trade network",
+            "id": 97
+        },
+        {
+            "question": "What opportunity did the collapse of Wendake provide for Canada?",
+            "options": [
+                "Becoming the granary of the north",
+                "Forming an alliance with the Haudenosaunee",
+                "Expanding into new territories",
+                "Creating a monopoly over the fur trade"
+            ],
+            "answer": "Becoming the granary of the north",
+            "id": 98
+        },
+        {
+            "question": "What was the main role of coureurs de bois in New France?",
+            "options": [
+                "Military defense",
+                "Agricultural development",
+                "Freighting service and trade facilitation",
+                "Education and literacy"
+            ],
+            "answer": "Freighting service and trade facilitation",
+            "id": 99
+        },
+        {
+            "question": "In what year did New France become a royal colony?",
+            "options": [
+                "1653",
+                "1663",
+                "1673",
+                "1683"
+            ],
+            "answer": "1663",
+            "id": 100
+        },
+        {
+            "question": "What were the filles du roi sent to New France to do?",
+            "options": [
+                "Teach",
+                "Marry and start families",
+                "Trade",
+                "Serve in the military"
+            ],
+            "answer": "Marry and start families",
+            "id": 101
+        },
+        {
+            "question": "Who became the king of France in 1643?",
+            "options": [
+                "Louis XIII",
+                "Louis XIV",
+                "Louis XV",
+                "Louis XVI"
+            ],
+            "answer": "Louis XIV",
+            "id": 102
+        },
+        {
+            "question": "Which regiment was sent to New France to counter the Haudenosaunee threat?",
+            "options": [
+                "Normandie Regiment",
+                "Carignan-Sali\u00e8res Regiment",
+                "Picardie Regiment",
+                "Navarre Regiment"
+            ],
+            "answer": "Carignan-Sali\u00e8res Regiment",
+            "id": 103
+        },
+        {
+            "question": "Who was the chief minister of France before Louis XIV began his personal rule?",
+            "options": [
+                "Cardinal Richelieu",
+                "Cardinal Mazarin",
+                "Jean-Baptiste Colbert",
+                "Duke of Sully"
+            ],
+            "answer": "Cardinal Mazarin",
+            "id": 104
+        },
+        {
+            "question": "What was the aim of sending the filles du roi to New France?",
+            "options": [
+                "To establish schools",
+                "To increase the military presence",
+                "To boost population growth",
+                "To start new businesses"
+            ],
+            "answer": "To boost population growth",
+            "id": 105
+        },
+        {
+            "question": "What was the function of engag\u00e9s in New France?",
+            "options": [
+                "To serve as indentured servants",
+                "To act as military officers",
+                "To oversee colonial administration",
+                "To promote religious conversion"
+            ],
+            "answer": "To serve as indentured servants",
+            "id": 106
+        },
+        {
+            "question": "What role did Jean Talon play in the development of New France?",
+            "options": [
+                "He was a military leader",
+                "He served as Intendant",
+                "He was a missionary",
+                "He was an explorer"
+            ],
+            "answer": "He served as Intendant",
+            "id": 107
+        },
+        {
+            "question": "Which treaty returned Quebec to French control after its initial capture by the English?",
+            "options": [
+                "Treaty of Utrecht",
+                "Treaty of Ryswick",
+                "Treaty of Saint-Germain-en-Laye",
+                "Treaty of Paris"
+            ],
+            "answer": "Treaty of Saint-Germain-en-Laye",
+            "id": 108
+        },
+        {
+            "question": "What was a key factor in the eventual defeat of New France by British forces?",
+            "options": [
+                "Superior British naval power",
+                "Lack of support from the French government",
+                "Alliances with more Indigenous nations by the British",
+                "Harsh climate conditions"
+            ],
+            "answer": "Superior British naval power",
+            "id": 109
+        },
+        {
+            "question": "What was the long-term impact of the British conquest on the French settlers in Canada?",
+            "options": [
+                "They were forced to leave",
+                "They adapted to British rule and maintained their cultural identity",
+                "They lost their language and culture",
+                "They were assimilated into the British military"
+            ],
+            "answer": "They adapted to British rule and maintained their cultural identity",
+            "id": 110
+        },
+        {
+            "question": "What was a common misunderstanding by Europeans regarding Indigenous leadership structures?",
+            "options": [
+                "They understood them as hierarchical systems",
+                "They saw them as egalitarian",
+                "They recognized the consensus-based approach",
+                "They interpreted them as loose affiliations without leadership"
+            ],
+            "answer": "They understood them as hierarchical systems",
+            "id": 111
+        },
+        {
+            "question": "What was one reason the Indigenous peoples were considering whether Europeans were beneficial for them?",
+            "options": [
+                "Trade opportunities",
+                "Technological advancements",
+                "Religious conversions",
+                "Potential alliances against other tribes"
+            ],
+            "answer": "Trade opportunities",
+            "id": 112
+        },
+        {
+            "question": "Which nation was early to decide the French were unwelcome, making the colonial enterprise more tenuous?",
+            "options": [
+                "The Five Nations",
+                "The Wendat",
+                "The Algonquin",
+                "The Haudenosaunee"
+            ],
+            "answer": "The Five Nations",
+            "id": 113
+        },
+        {
+            "question": "What period is described as the 'heroic age of New France'?",
+            "options": [
+                "1600 to 1663",
+                "1500 to 1550",
+                "1700 to 1750",
+                "1650 to 1700"
+            ],
+            "answer": "1600 to 1663",
+            "id": 114
+        },
+        {
+            "question": "Samuel de Champlain is recognized for his talents in what field?",
+            "options": [
+                "Cartography",
+                "Drama",
+                "Medicine",
+                "Law"
+            ],
+            "answer": "Cartography",
+            "id": 115
+        },
+        {
+            "question": "Which order did Champlain establish to uplift spirits during a harsh winter in Acadia?",
+            "options": [
+                "L'Ordre de Bon Temps",
+                "L'Ordre de Champlain",
+                "L'Ordre de Nouvelle-France",
+                "L'Ordre de la Couronne"
+            ],
+            "answer": "L'Ordre de Bon Temps",
+            "id": 116
+        },
+        {
+            "question": "What injury did Champlain NOT sustain during his leadership in regional wars?",
+            "options": [
+                "An arrow in the leg",
+                "An arrow in the neck",
+                "Two arrows in the knee",
+                "A musket ball in the arm"
+            ],
+            "answer": "A musket ball in the arm",
+            "id": 117
+        },
+        {
+            "question": "How was Champlain's claim that Hudson Bay was not the Pacific Ocean later validated?",
+            "options": [
+                "Spanish exploration",
+                "British proof",
+                "French naval expeditions",
+                "Indigenous testimony"
+            ],
+            "answer": "British proof",
+            "id": 118
+        },
+        {
+            "question": "What was the age of Champlain's wife, H\u00e9l\u00e8ne Boull\u00e9, when he married her?",
+            "options": [
+                "12 years old",
+                "14 years old",
+                "16 years old",
+                "18 years old"
+            ],
+            "answer": "12 years old",
+            "id": 119
+        },
+        {
+            "question": "What nationality were the three daughters that Champlain adopted?",
+            "options": [
+                "French",
+                "Spanish",
+                "Algonquin",
+                "Haudenosaunee"
+            ],
+            "answer": "Algonquin",
+            "id": 120
+        },
+        {
+            "question": "Which significant event happened between the years 1649 and 1663 that affected Canada?",
+            "options": [
+                "The establishment of Quebec",
+                "The dispersal of Wendake (Huronia)",
+                "The founding of Montreal",
+                "The signing of a major treaty with Indigenous peoples"
+            ],
+            "answer": "The dispersal of Wendake (Huronia)",
+            "id": 121
+        },
+        {
+            "question": "What was the impact of the Wendake collapse on French colonial trade?",
+            "options": [
+                "It strengthened it",
+                "It created a monopoly",
+                "It caused a trade surplus",
+                "It weakened the trade network"
+            ],
+            "answer": "It weakened the trade network",
+            "id": 122
+        },
+        {
+            "question": "Who became king of France in 1643?",
+            "options": [
+                "Louis XIII",
+                "Louis XIV",
+                "Henry IV",
+                "Charles IX"
+            ],
+            "answer": "Louis XIV",
+            "id": 123
+        },
+        {
+            "question": "What was the role of the Carignan-Sali\u00e8res Regiment in New France?",
+            "options": [
+                "Establishing schools",
+                "Building infrastructure",
+                "Countering the Haudenosaunee threat",
+                "Exploring the West"
+            ],
+            "answer": "Countering the Haudenosaunee threat",
+            "id": 124
+        },
+        {
+            "question": "What was the purpose of sending the 'filles du roi' to New France?",
+            "options": [
+                "To educate the population",
+                "To marry them off and boost population growth",
+                "To help in trade",
+                "To convert the Indigenous peoples"
+            ],
+            "answer": "To marry them off and boost population growth",
+            "id": 125
+        },
+        {
+            "question": "In what year did New France become a royal colony?",
+            "options": [
+                "1600",
+                "1663",
+                "1701",
+                "1763"
+            ],
+            "answer": "1663",
+            "id": 126
+        },
+        {
+            "question": "What was the 'Code Noir' primarily concerning?",
+            "options": [
+                "Trade regulations",
+                "Behavior of soldiers",
+                "Treatment of slaves",
+                "Marriage laws"
+            ],
+            "answer": "Treatment of slaves",
+            "id": 127
+        },
+        {
+            "question": "What was the intent of the 'Code Noir'?",
+            "options": [
+                "To abolish slavery",
+                "To regulate the treatment and condition of slaves",
+                "To define the legal status of Indigenous peoples",
+                "To set trade guidelines"
+            ],
+            "answer": "To regulate the treatment and condition of slaves",
+            "id": 128
+        },
+        {
+            "question": "Who led the Hudson's Bay Company to be formed?",
+            "options": [
+                "Samuel de Champlain",
+                "Prince Rupert",
+                "Louis Jolliet",
+                "Jacques Cartier"
+            ],
+            "answer": "Prince Rupert",
+            "id": 129
+        },
+        {
+            "question": "What resource was crucial for the profitability of the Hudson's Bay Company?",
+            "options": [
+                "Timber",
+                "Beaver pelts",
+                "Gold",
+                "Fish"
+            ],
+            "answer": "Beaver pelts",
+            "id": 130
+        },
+        {
+            "question": "Which group was not part of the 'Battle of the Plains of Abraham'?",
+            "options": [
+                "French",
+                "British",
+                "Haudenosaunee",
+                "Algonquin"
+            ],
+            "answer": "Algonquin",
+            "id": 131
+        },
+        {
+            "question": "What was the name of the treaty that concluded the 'Battle of the Plains of Abraham'?",
+            "options": [
+                "Treaty of Paris",
+                "Treaty of Utrecht",
+                "Treaty of Versailles",
+                "Treaty of Westminster"
+            ],
+            "answer": "Treaty of Paris",
+            "id": 132
+        },
+        {
+            "question": "In what year did the 'Battle of the Plains of Abraham' take place?",
+            "options": [
+                "1759",
+                "1763",
+                "1776",
+                "1783"
+            ],
+            "answer": "1759",
+            "id": 133
+        },
+        {
+            "question": "Who was the French commander at the 'Battle of the Plains of Abraham'?",
+            "options": [
+                "Marquis de Montcalm",
+                "Samuel de Champlain",
+                "Jean Talon",
+                "Louis de Buade"
+            ],
+            "answer": "Marquis de Montcalm",
+            "id": 134
+        },
+        {
+            "question": "What was a significant result of the 'Battle of the Plains of Abraham' for New France?",
+            "options": [
+                "It became a British colony",
+                "It expanded its territory",
+                "It established a new government",
+                "It began trading with Spain"
+            ],
+            "answer": "It became a British colony",
+            "id": 135
+        },
+        {
+            "question": "Who was the British commander at the 'Battle of the Plains of Abraham'?",
+            "options": [
+                "General James Wolfe",
+                "Admiral Horatio Nelson",
+                "Sir Francis Drake",
+                "General Edward Braddock"
+            ],
+            "answer": "General James Wolfe",
+            "id": 136
+        },
+        {
+            "question": "Which European power gained control of New France following the 'Battle of the Plains of Abraham'?",
+            "options": [
+                "Britain",
+                "Spain",
+                "Portugal",
+                "The Netherlands"
+            ],
+            "answer": "Britain",
+            "id": 137
+        },
+        {
+            "question": "What was one long-term effect of the British conquest of New France?",
+            "options": [
+                "The strengthening of French language and culture",
+                "The assimilation of French settlers into British culture",
+                "The unification of Indigenous and European societies",
+                "The foundation of bilingualism in Canadian governance"
+            ],
+            "answer": "The foundation of bilingualism in Canadian governance",
+            "id": 138
+        },
+        {
+            "question": "Which Indigenous group was an important ally to the British during the conquest of New France?",
+            "options": [
+                "The Algonquin",
+                "The Cree",
+                "The Haudenosaunee",
+                "The Mi'kmaq"
+            ],
+            "answer": "The Haudenosaunee",
+            "id": 139
+        },
+        {
+            "question": "Who was appointed as the first intendant of the colonies in the 17th century?",
+            "options": [
+                "Jean Talon",
+                "Louis XIV",
+                "Jean-Baptiste Colbert",
+                "Ren\u00e9-Robert Cavalier de La Salle"
+            ],
+            "answer": "Jean Talon",
+            "id": 140
+        },
+        {
+            "question": "What was the role of the Sulpicians in Montreal during the 17th century?",
+            "options": [
+                "They were a military regiment",
+                "They were a group of habitants",
+                "They owned engag\u00e9 contracts",
+                "They were shipbuilders"
+            ],
+            "answer": "They owned engag\u00e9 contracts",
+            "id": 141
+        },
+        {
+            "question": "Which religious order was Jeanne Mance a member of?",
+            "options": [
+                "The Ursuline order of nuns",
+                "The Society of Jesus",
+                "The Sulpicians",
+                "The Society of Notre-Dame"
+            ],
+            "answer": "The Ursuline order of nuns",
+            "id": 142
+        },
+        {
+            "question": "What was the primary work of engag\u00e9s in the colony?",
+            "options": [
+                "Trade negotiations",
+                "Farming",
+                "Military service",
+                "Religious duties"
+            ],
+            "answer": "Farming",
+            "id": 143
+        },
+        {
+            "question": "Between which years was Jean Talon appointed for his two terms as the intendant?",
+            "options": [
+                "1663\u20131672 and 1670\u20131682",
+                "1663\u20131668 and 1670\u20131672",
+                "1665\u20131670 and 1672\u20131674",
+                "1660\u20131665 and 1668\u20131673"
+            ],
+            "answer": "1663\u20131668 and 1670\u20131672",
+            "id": 144
+        },
+        {
+            "question": "What type of economic system was Jean-Baptiste Colbert planning to introduce in the colonies?",
+            "options": [
+                "Socialism",
+                "Mercantilism",
+                "Capitalism",
+                "Feudalism"
+            ],
+            "answer": "Mercantilism",
+            "id": 145
+        },
+        {
+            "question": "What was the name given to the women sent by the king to increase the population of the colony?",
+            "options": [
+                "Les Dames de la Cour",
+                "Les Filles de la Charit\u00e9",
+                "Les Filles du Roi",
+                "Les Femmes de la Colonie"
+            ],
+            "answer": "Les Filles du Roi",
+            "id": 146
+        },
+        {
+            "question": "What was a major role of the clergy according to Colbert's plans for the colony?",
+            "options": [
+                "Military defense",
+                "Economic development",
+                "Defer to the king over Rome",
+                "Manage fur trade"
+            ],
+            "answer": "Defer to the king over Rome",
+            "id": 147
+        },
+        {
+            "question": "What was the economic focus of Jean Talon's strategy for the colony?",
+            "options": [
+                "Building up agricultural output",
+                "Increasing military presence",
+                "Promoting religious missions",
+                "Expanding urban areas"
+            ],
+            "answer": "Building up agricultural output",
+            "id": 148
+        },
+        {
+            "question": "What system of landholding was introduced in the colony to resemble French feudalism?",
+            "options": [
+                "Capitalist system",
+                "Seigneurial system",
+                "Communist system",
+                "Republican system"
+            ],
+            "answer": "Seigneurial system",
+            "id": 149
+        },
+        {
+            "question": "What title did Louis de Buade hold?",
+            "options": [
+                "Governor",
+                "Intendant",
+                "Seigneur",
+                "Ministre de la Marine"
+            ],
+            "answer": "Governor",
+            "id": 150
+        },
+        {
+            "question": "Which disease outbreak in 1687 claimed 6% of the colonist population of Montreal?",
+            "options": [
+                "Bubonic Plague",
+                "Measles",
+                "Cholera",
+                "Smallpox"
+            ],
+            "answer": "Measles",
+            "id": 151
+        },
+        {
+            "question": "What was the main reason for the lack of settlement in seigneuries before the 1730s?",
+            "options": [
+                "Lack of interest from the seigneurs",
+                "Attacks by the Haudenosaunee",
+                "Poor soil fertility",
+                "Harsh climatic conditions"
+            ],
+            "answer": "Attacks by the Haudenosaunee",
+            "id": 152
+        },
+        {
+            "question": "What type of colony was Frontenac pursuing that contradicted the goals of Paris?",
+            "options": [
+                "Compact colony",
+                "Expansive colony",
+                "Industrial colony",
+                "Military colony"
+            ],
+            "answer": "Expansive colony",
+            "id": 153
+        },
+        {
+            "question": "What did the seigneurs owe the king as part of their duty?",
+            "options": [
+                "An annual tribute",
+                "A military service",
+                "An oath of loyalty",
+                "A portion of their crops"
+            ],
+            "answer": "An oath of loyalty",
+            "id": 154
+        },
+        {
+            "question": "What were habitants?",
+            "options": [
+                "Local administrators",
+                "Fur traders",
+                "Soldiers",
+                "Farmers"
+            ],
+            "answer": "Farmers",
+            "id": 155
+        },
+        {
+            "question": "Who held absolute power in New France?",
+            "options": [
+                "The intendant",
+                "The king",
+                "The governor",
+                "The bishop"
+            ],
+            "answer": "The king",
+            "id": 156
+        },
+        {
+            "question": "What was the main role of the bishop in New France?",
+            "options": [
+                "Military leadership",
+                "Judicial power",
+                "Spiritual and educational leadership",
+                "Economic planning"
+            ],
+            "answer": "Spiritual and educational leadership",
+            "id": 157
+        },
+        {
+            "question": "What was the name of the group of Iroquoian-speaking indigenous people who lived near the St. Lawrence River?",
+            "options": [
+                "The Haudenosaunee",
+                "The Algonquins",
+                "The Hurons",
+                "The Stadaconans"
+            ],
+            "answer": "The Stadaconans",
+            "id": 158
+        },
+        {
+            "question": "Which French explorer was responsible for claiming Canada for France in 1534?",
+            "options": [
+                "Jacques Cartier",
+                "Samuel de Champlain",
+                "Ren\u00e9-Robert Cavalier de La Salle",
+                "Pierre Dugua, Sieur de Mons"
+            ],
+            "answer": "Jacques Cartier",
+            "id": 159
+        },
+        {
+            "question": "What impact did the Treaty of Utrecht have on the expansion in Canada?",
+            "options": [
+                "It halted expansion completely",
+                "It had no effect on expansion",
+                "It intensified expansionist tendencies in Canada",
+                "It only affected the French expansion"
+            ],
+            "answer": "It intensified expansionist tendencies in Canada",
+            "id": 160
+        },
+        {
+            "question": "What areas were handed over to the British after the Treaty of Utrecht?",
+            "options": [
+                "Hudson Bay, Newfoundland, and Acadia",
+                "Quebec and Montreal",
+                "Louisbourg and the Great Lakes",
+                "Pays d\u2019en Haut and St. Lawrence River"
+            ],
+            "answer": "Hudson Bay, Newfoundland, and Acadia",
+            "id": 161
+        },
+        {
+            "question": "By mid-18th century, what was the average completed family size in Canada?",
+            "options": [
+                "Between 2 and 4 children",
+                "Between 6 and 8 children",
+                "Between 10 and 12 children",
+                "More than 12 children"
+            ],
+            "answer": "Between 6 and 8 children",
+            "id": 162
+        },
+        {
+            "question": "What was the approximate population of Quebec around 1760?",
+            "options": [
+                "5000",
+                "8000",
+                "10,000",
+                "15,000"
+            ],
+            "answer": "8000",
+            "id": 163
+        },
+        {
+            "question": "What did wealthy and influential merchants in the colony of New France struggle to achieve?",
+            "options": [
+                "Independence from France",
+                "Control over the fur trade",
+                "The status of a seigneur",
+                "Expansion into British territories"
+            ],
+            "answer": "The status of a seigneur",
+            "id": 164
+        },
+        {
+            "question": "Which monastic order first arrived in New France in 1615 to Christianize the locals?",
+            "options": [
+                "The Franciscans",
+                "The Dominicans",
+                "The Recollets",
+                "The Benedictines"
+            ],
+            "answer": "The Recollets",
+            "id": 165
+        },
+        {
+            "question": "Who replaced the Recollets when they were evicted from the colony in 1629?",
+            "options": [
+                "The Jesuits",
+                "The Anglicans",
+                "The Methodists",
+                "The Lutherans"
+            ],
+            "answer": "The Jesuits",
+            "id": 166
+        },
+        {
+            "question": "During which war did prices of fur continue to fall?",
+            "options": [
+                "The Seven Years' War",
+                "The War of the Spanish Succession",
+                "The French and Indian War",
+                "The American Revolutionary War"
+            ],
+            "answer": "The War of the Spanish Succession",
+            "id": 167
+        },
+        {
+            "question": "What was the primary reason for more furs being supplied when prices were low?",
+            "options": [
+                "Increased demand in Europe",
+                "Indigenous suppliers needed to trade more for their wants",
+                "Overhunting of fur-bearing animals",
+                "French imposed quotas"
+            ],
+            "answer": "Indigenous suppliers needed to trade more for their wants",
+            "id": 168
+        },
+        {
+            "question": "What relationship did Canadien merchants have with the merchants in France?",
+            "options": [
+                "Competitive",
+                "Dependent",
+                "Hostile",
+                "Unrelated"
+            ],
+            "answer": "Dependent",
+            "id": 169
+        },
+        {
+            "question": "Which city had a population of about 3500 around 1760?",
+            "options": [
+                "Quebec",
+                "Montreal",
+                "Louisbourg",
+                "Acadia"
+            ],
+            "answer": "Montreal",
+            "id": 170
+        },
+        {
+            "question": "What were Canadiens and Canadiennes known to inappropriately appropriate in the new country?",
+            "options": [
+                "Land",
+                "Titles such as \u00e9\u200bcuyer",
+                "Goods from fur trade",
+                "British identities"
+            ],
+            "answer": "Titles such as \u00e9\u200bcuyer",
+            "id": 171
+        },
+        {
+            "question": "What force was considered more powerful than the police force in regulating domestic relations in Canadien society?",
+            "options": [
+                "Military authority",
+                "Clerical supervision",
+                "Gossip",
+                "Judicial intervention"
+            ],
+            "answer": "Gossip",
+            "id": 172
+        },
+        {
+            "question": "What did the Treaty of Utrecht (1713) conclude in North America?",
+            "options": [
+                "The War of the Spanish Succession",
+                "The Great Peace of 1701",
+                "The French and Indian War",
+                "The Seven Years' War"
+            ],
+            "answer": "The War of the Spanish Succession",
+            "id": 173
+        },
+        {
+            "question": "How was the population growth in New France primarily achieved?",
+            "options": [
+                "Wave-after-wave of immigration",
+                "Natural increase",
+                "Import of slaves",
+                "Relocation of French citizens"
+            ],
+            "answer": "Natural increase",
+            "id": 174
+        },
+        {
+            "question": "What was the main objective of the French regime's agenda in its early years of colonial activity?",
+            "options": [
+                "Establishing a fur trade monopoly",
+                "Christianizing the Indigenous peoples",
+                "Expanding territorial claims",
+                "Creating a self-sustaining colony"
+            ],
+            "answer": "Christianizing the Indigenous peoples",
+            "id": 175
+        },
+        {
+            "question": "Which two religious orders had different approaches to Christianizing Indigenous peoples in New France?",
+            "options": [
+                "Recollets and Jesuits",
+                "Dominicans and Franciscans",
+                "Benedictines and Carmelites",
+                "Augustinians and Capuchins"
+            ],
+            "answer": "Recollets and Jesuits",
+            "id": 176
+        },
+        {
+            "question": "When was Quebec City viewed as depicted in the media attribution?",
+            "options": [
+                "1600",
+                "1650",
+                "1700",
+                "1750"
+            ],
+            "answer": "1700",
+            "id": 177
+        },
+        {
+            "question": "What was the cause of the Wendat Confederacy's collapse in 1649?",
+            "options": [
+                "Natural disasters",
+                "Defeats by smallpox and the Haudenosaunee",
+                "Economic collapse",
+                "French military conquest"
+            ],
+            "answer": "Defeats by smallpox and the Haudenosaunee",
+            "id": 178
+        },
+        {
+            "question": "Who were the first French traders to reach the western shore of Lake Superior in 1659?",
+            "options": [
+                "Jacques Cartier and Samuel de Champlain",
+                "Louis Jolliet and Jacques Marquette",
+                "Pierre-Esprit Radisson and M\u00e9dard Chouart des Groseilliers",
+                "Fran\u00e7ois de La V\u00e9rendrye and his sons"
+            ],
+            "answer": "Pierre-Esprit Radisson and M\u00e9dard Chouart des Groseilliers",
+            "id": 179
+        },
+        {
+            "question": "Which year marks the founding of Louisiana in the Mississippi basin?",
+            "options": [
+                "1659",
+                "1670",
+                "1699",
+                "1713"
+            ],
+            "answer": "1699",
+            "id": 180
+        },
+        {
+            "question": "Who founded the first permanent settlement in Louisiana, Fort Maurepas?",
+            "options": [
+                "Robert de La Salle",
+                "Louis Jolliet",
+                "Pierre Le Moyne d\u2019Iberville",
+                "Antoine de la Mothe Cadillac"
+            ],
+            "answer": "Pierre Le Moyne d\u2019Iberville",
+            "id": 181
+        },
+        {
+            "question": "What was the main economic activity in early Louisiana?",
+            "options": [
+                "Sugar plantations",
+                "Fur trading",
+                "Cotton plantations",
+                "Gold mining"
+            ],
+            "answer": "Cotton plantations",
+            "id": 182
+        },
+        {
+            "question": "What was the primary function of the extensive system of fortifications in New France?",
+            "options": [
+                "Defense against Indigenous uprisings",
+                "Protection from wild animals",
+                "Maintaining a trading network",
+                "As tourist attractions"
+            ],
+            "answer": "Maintaining a trading network",
+            "id": 183
+        },
+        {
+            "question": "What was the strategic value of Louisiana and the Ohio in New France?",
+            "options": [
+                "They were cultural centers",
+                "They contained large populations",
+                "They helped contain British expansion",
+                "They were rich in gold"
+            ],
+            "answer": "They helped contain British expansion",
+            "id": 184
+        },
+        {
+            "question": "During which conflict were the French able to exploit Indigenous dissatisfaction with British colonists?",
+            "options": [
+                "King William's War",
+                "Queen Anne's War",
+                "The Beaver Wars",
+                "The War of Spanish Succession"
+            ],
+            "answer": "Queen Anne's War",
+            "id": 185
+        },
+        {
+            "question": "What was the diplomatic strategy the French used to maintain good relations with Indigenous communities?",
+            "options": [
+                "Military alliances",
+                "Religious conversions",
+                "Gift diplomacy",
+                "Technological exchange"
+            ],
+            "answer": "Gift diplomacy",
+            "id": 186
+        },
+        {
+            "question": "Which two valleys served as bridges between Louisiana and Canada?",
+            "options": [
+                "The Red River and Rio Grande Valleys",
+                "The Ohio and Illinois Valleys",
+                "The Shenandoah and Hudson Valleys",
+                "The Missouri and Platte Valleys"
+            ],
+            "answer": "The Ohio and Illinois Valleys",
+            "id": 187
+        },
+        {
+            "question": "What was a consequence of the Beaver Wars in terms of territory?",
+            "options": [
+                "The French lost control of the St. Lawrence River",
+                "The Haudenosaunee expanded westward",
+                "The British gained access to the Great Lakes",
+                "Louisiana expanded to the east"
+            ],
+            "answer": "The Haudenosaunee expanded westward",
+            "id": 188
+        },
+        {
+            "question": "What was the primary economic exchange product in Louisiana similar to the beaver pelts in Canada?",
+            "options": [
+                "Cotton",
+                "Tobacco",
+                "Deer skins",
+                "Alligator hides"
+            ],
+            "answer": "Deer skins",
+            "id": 189
+        },
+        {
+            "question": "Who were the first French traders to reach the western shore of Lake Superior?",
+            "options": [
+                "Jacques Cartier and Samuel de Champlain",
+                "Louis Jolliet and Jacques Marquette",
+                "Pierre-Esprit Radisson and M\u00e9dard Chouart des Groseilliers",
+                "Ren\u00e9-Robert Cavelier, Sieur de La Salle and Henri de Tonti"
+            ],
+            "answer": "Pierre-Esprit Radisson and M\u00e9dard Chouart des Groseilliers",
+            "id": 190
+        },
+        {
+            "question": "In what year was Louisiana founded in the basin of the Mississippi?",
+            "options": [
+                "1679",
+                "1699",
+                "1713",
+                "1720"
+            ],
+            "answer": "1699",
+            "id": 191
+        },
+        {
+            "question": "Which military officer from Canada founded the first permanent settlement in Louisiana?",
+            "options": [
+                "Jacques Cartier",
+                "Samuel de Champlain",
+                "Pierre Le Moyne d'Iberville",
+                "Jean-Baptiste Le Moyne de Bienville"
+            ],
+            "answer": "Pierre Le Moyne d'Iberville",
+            "id": 192
+        },
+        {
+            "question": "What was the primary export of Louisiana for many years?",
+            "options": [
+                "Beaver pelts",
+                "Moose hides",
+                "Deer skins",
+                "Cotton"
+            ],
+            "answer": "Deer skins",
+            "id": 193
+        },
+        {
+            "question": "What did the French regime introduce during its first decade of colonial activity in New France?",
+            "options": [
+                "A Christianizing agenda",
+                "The seigneurial system",
+                "The fur trade",
+                "Military fortifications"
+            ],
+            "answer": "A Christianizing agenda",
+            "id": 194
+        },
+        {
+            "question": "Which Indigenous confederacy collapsed in 1649?",
+            "options": [
+                "The Algonquin Confederacy",
+                "The Wendat Confederacy",
+                "The Iroquois Confederacy",
+                "The Haudenosaunee Confederacy"
+            ],
+            "answer": "The Wendat Confederacy",
+            "id": 195
+        },
+        {
+            "question": "What was the main supplier nation of deer skins to Louisiana?",
+            "options": [
+                "The Iroquois",
+                "The Haudenosaunee",
+                "The Wendat",
+                "The Choctaw"
+            ],
+            "answer": "The Choctaw",
+            "id": 196
+        },
+        {
+            "question": "What did the French hope to guarantee with gift diplomacy in the Ohio region?",
+            "options": [
+                "Indigenous support",
+                "British trade",
+                "Spanish alliance",
+                "English colonists' cooperation"
+            ],
+            "answer": "Indigenous support",
+            "id": 197
+        },
+        {
+            "question": "Which code was introduced by Colbert in 1685 to regulate slavery in French colonies?",
+            "options": [
+                "The Napoleonic Code",
+                "The Civil Code",
+                "The Code Civil",
+                "The Code Noir"
+            ],
+            "answer": "The Code Noir",
+            "id": 198
+        },
+        {
+            "question": "Where was Louisiana's administration principally located?",
+            "options": [
+                "Quebec City",
+                "New Orleans",
+                "Mobile",
+                "Montreal"
+            ],
+            "answer": "New Orleans",
+            "id": 199
+        },
+        {
+            "question": "Which valleys served as bridges between Louisiana and Canada?",
+            "options": [
+                "The Ohio and Illinois Valleys",
+                "The Red River and Missouri Valleys",
+                "The Shenandoah and Hudson Valleys",
+                "The Mississippi and Arkansas Valleys"
+            ],
+            "answer": "The Ohio and Illinois Valleys",
+            "id": 200
+        },
+        {
+            "question": "Who were the main allies and trading partners of the Chickasaw?",
+            "options": [
+                "The French in Louisiana",
+                "The British in South Carolina",
+                "The Spanish in Mexico",
+                "The Dutch in New York"
+            ],
+            "answer": "The British in South Carolina",
+            "id": 201
+        },
+        {
+            "question": "What was one of the outcomes of Indigenous slave exchanges for the French?",
+            "options": [
+                "Strengthening of alliances with all Indigenous nations",
+                "Creation of a unified Indigenous front",
+                "Limitations on diplomatic engagements with certain Indigenous nations",
+                "An increase in French territorial claims"
+            ],
+            "answer": "Limitations on diplomatic engagements with certain Indigenous nations",
+            "id": 202
+        },
+        {
+            "question": "Which war changed hands of the territory in the Ohio Valley between Indigenous groups?",
+            "options": [
+                "The French and Indian War",
+                "The Beaver Wars",
+                "King Philip's War",
+                "The Pequot War"
+            ],
+            "answer": "The Beaver Wars",
+            "id": 203
+        },
+        {
+            "question": "Which fort is an example of the investment made by Canadien and Louisianan authorities in fortifications?",
+            "options": [
+                "Fort Maurepas",
+                "Fort de Chartres",
+                "Fort Frontenac",
+                "Fort Niagara"
+            ],
+            "answer": "Fort de Chartres",
+            "id": 204
+        },
+        {
+            "question": "What was one reason for the French settlers' integration into an Indigenous world in Louisiana and Canada?",
+            "options": [
+                "To control the fur trade",
+                "To promote French culture",
+                "To resist British expansion",
+                "To convert Indigenous peoples to Christianity"
+            ],
+            "answer": "To control the fur trade",
+            "id": 205
+        },
+        {
+            "question": "What led to the development of a French Creole society?",
+            "options": [
+                "The interaction of French settlers with Indigenous and African peoples",
+                "The imposition of French laws and customs on colonies",
+                "The exclusive trade with France",
+                "The military alliance with Indigenous nations"
+            ],
+            "answer": "The interaction of French settlers with Indigenous and African peoples",
+            "id": 206
+        },
+        {
+            "question": "Which governor of Louisiana was known for his diplomatic skills?",
+            "options": [
+                "Antoine Laumet de La Mothe, sieur de Cadillac",
+                "Jean-Baptiste Le Moyne de Bienville",
+                "Pierre Le Moyne d'Iberville",
+                "Louis Billouart, Chevalier de Kerlerec"
+            ],
+            "answer": "Jean-Baptiste Le Moyne de Bienville",
+            "id": 207
+        },
+        {
+            "question": "Which river corridor did the Meskwaki control, connecting Lake Michigan to the upper Mississippi valley?",
+            "options": [
+                "The Ohio River Corridor",
+                "The Illinois River Corridor",
+                "The Fox River Corridor",
+                "The Meskwaki River Corridor"
+            ],
+            "answer": "The Illinois River Corridor",
+            "id": 208
+        },
+        {
+            "question": "What confederation did the Meskwaki act as intermediaries for in trade?",
+            "options": [
+                "The Council of Three Fires",
+                "The Iroquois Confederacy",
+                "The Sioux Confederacy",
+                "The Algonquin Confederacy"
+            ],
+            "answer": "The Council of Three Fires",
+            "id": 209
+        },
+        {
+            "question": "Which nation did the Wendat, likely armed by the French, displace from southern Ontario?",
+            "options": [
+                "The Meskwaki",
+                "The Anishinaabe/Ojibwa",
+                "The Potawatomi",
+                "The Ottawa"
+            ],
+            "answer": "The Meskwaki",
+            "id": 210
+        },
+        {
+            "question": "What did the French want to achieve by opposing the Meskwaki?",
+            "options": [
+                "Unfettered access to the Sioux and the Plains",
+                "Control of the river corridor",
+                "Expansion of the fur trade",
+                "Conversion of Indigenous peoples to Christianity"
+            ],
+            "answer": "Unfettered access to the Sioux and the Plains",
+            "id": 211
+        },
+        {
+            "question": "In which year did the first major conflict of the Fox Wars occur?",
+            "options": [
+                "1700",
+                "1701",
+                "1712",
+                "1728"
+            ],
+            "answer": "1701",
+            "id": 212
+        },
+        {
+            "question": "What was the name of the fort where the first major conflict of the Fox Wars took place?",
+            "options": [
+                "Fort Pontchartrain",
+                "Fort Detroit",
+                "Fort Green Bay",
+                "Fort New France"
+            ],
+            "answer": "Fort Pontchartrain",
+            "id": 213
+        },
+        {
+            "question": "Which governor of New France is noted for punishing the Meskwaki during the Fox Wars?",
+            "options": [
+                "Governor Frontenac",
+                "Governor Beauharnois",
+                "Governor Cadillac",
+                "Governor Vaudreuil"
+            ],
+            "answer": "Governor Beauharnois",
+            "id": 214
+        },
+        {
+            "question": "What was the outcome for the Meskwaki population after the Fox Wars?",
+            "options": [
+                "They became the dominant power",
+                "They were largely integrated into French society",
+                "They were nearly extinguished",
+                "They migrated to New France"
+            ],
+            "answer": "They were nearly extinguished",
+            "id": 215
+        },
+        {
+            "question": "What position did the principal Fox chief, Kiala, take in 1733?",
+            "options": [
+                "He led a counterattack against the French",
+                "He begged for mercy from the French",
+                "He allied with the British",
+                "He became a French ambassador"
+            ],
+            "answer": "He begged for mercy from the French",
+            "id": 216
+        },
+        {
+            "question": "Where was the principal Fox chief, Kiala, sent as a slave?",
+            "options": [
+                "Martinique",
+                "Louisiana",
+                "New France",
+                "Quebec"
+            ],
+            "answer": "Martinique",
+            "id": 217
+        },
+        {
+            "question": "What policy did Governor Beauharnois implement towards the remaining Foxes?",
+            "options": [
+                "They should be dispersed among missions",
+                "They should be accepted as French citizens",
+                "They should be given their own land",
+                "They should be killed if not dispersed"
+            ],
+            "answer": "They should be killed if not dispersed",
+            "id": 218
+        },
+        {
+            "question": "What does the Fox Wars campaign reveal about the French-Indigenous relations?",
+            "options": [
+                "They were unqualifiedly positive",
+                "They included instances of conflict and violence",
+                "They were solely based on trade",
+                "They were based on territorial expansion"
+            ],
+            "answer": "They included instances of conflict and violence",
+            "id": 219
+        },
+        {
+            "question": "What was the attitude of the French towards lands in the Pays d\u2019en Haut?",
+            "options": [
+                "They were indifferent to land ownership",
+                "They demanded large concessions of land",
+                "They were not interested in annexing lands",
+                "They wanted to establish permanent settlements"
+            ],
+            "answer": "They were not interested in annexing lands",
+            "id": 220
+        },
+        {
+            "question": "Which of the following was NOT a result of the Fox Wars?",
+            "options": [
+                "The enhancement of French diplomacy",
+                "The spread of European goods and commerce",
+                "The unification of Indigenous nations",
+                "The near extinction of the Meskwaki"
+            ],
+            "answer": "The unification of Indigenous nations",
+            "id": 221
+        },
+        {
+            "question": "What region did the Virginian colonists explore for expansion during the time of the Fox Wars?",
+            "options": [
+                "The Mississippi Delta",
+                "The Ohio Valley",
+                "The Appalachian Mountains",
+                "The Great Lakes"
+            ],
+            "answer": "The Ohio Valley",
+            "id": 222
+        },
+        {
+            "question": "What advantage did the Meskwaki initially hold in the conflict with the French?",
+            "options": [
+                "Technological superiority",
+                "Greater numbers",
+                "Control of strategic trade routes",
+                "Stronger military alliances"
+            ],
+            "answer": "Control of strategic trade routes",
+            "id": 223
+        },
+        {
+            "question": "What was the impact of European goods, commerce, and military alliances according to the text?",
+            "options": [
+                "Localized to Canada and Acadia",
+                "Negligible across North America",
+                "Far-flung impacts across the middle of North America",
+                "Only within European settlements"
+            ],
+            "answer": "Far-flung impacts across the middle of North America",
+            "id": 224
+        },
+        {
+            "question": "What does the campaign against the Meskwaki by Governor Beauharnois signify?",
+            "options": [
+                "An emphasis on peaceful assimilation",
+                "A desire to foster equality",
+                "A genocidal intent",
+                "A diplomatic misunderstanding"
+            ],
+            "answer": "A genocidal intent",
+            "id": 225
+        },
+        {
+            "question": "What kind of trade became lively after the conflict in 1701 at Fort Pontchartrain?",
+            "options": [
+                "Fur trade",
+                "Gold trade",
+                "Meskwaki slave trade",
+                "Tobacco trade"
+            ],
+            "answer": "Meskwaki slave trade",
+            "id": 226
+        },
+        {
+            "question": "Which nations comprised the Council of Three Fires?",
+            "options": [
+                "Potawatomi, Ottawa, Anishinaabe/Ojibwa",
+                "Sioux, Meskwaki, Mascouten",
+                "Iroquois, Algonquin, Huron",
+                "Cree, Blackfoot, Assiniboine"
+            ],
+            "answer": "Potawatomi, Ottawa, Anishinaabe/Ojibwa",
+            "id": 227
+        },
+        {
+            "question": "What did the Meskwaki demand from the French that led to the Fox Wars?",
+            "options": [
+                "Military support",
+                "Conversion to Christianity",
+                "Concessions of land",
+                "Recognition as trade intermediaries"
+            ],
+            "answer": "Recognition as trade intermediaries",
+            "id": 228
+        },
+        {
+            "question": "How did the French generally behave towards Indigenous nations in the territories mentioned?",
+            "options": [
+                "As conquerors",
+                "As guests",
+                "As missionaries",
+                "As traders only"
+            ],
+            "answer": "As guests",
+            "id": 229
+        },
+        {
+            "question": "What strategy did the French use to maintain alliances with Indigenous nations?",
+            "options": [
+                "Regular military exercises",
+                "Systematic colonization",
+                "Regular and systematic gift-giving",
+                "Exclusive trade agreements"
+            ],
+            "answer": "Regular and systematic gift-giving",
+            "id": 230
+        },
+        {
+            "question": "What was the duration of the more or less continuous war that picked up again in 1712?",
+            "options": [
+                "5 years",
+                "10 years",
+                "15 years",
+                "More than 15 years"
+            ],
+            "answer": "More than 15 years",
+            "id": 231
+        },
+        {
+            "question": "What was the fate of the smallest numbers of Meskwaki refugees?",
+            "options": [
+                "They were given asylum",
+                "They were hunted down and executed",
+                "They were absorbed into other tribes",
+                "They were relocated to French territories"
+            ],
+            "answer": "They were hunted down and executed",
+            "id": 232
+        },
+        {
+            "question": "What was the primary goal of French diplomacy during the Fox Wars?",
+            "options": [
+                "To establish trade monopolies",
+                "To demonstrate military might",
+                "To pass the test of strength among allies",
+                "To convert Indigenous peoples to Christianity"
+            ],
+            "answer": "To pass the test of strength among allies",
+            "id": 233
+        },
+        {
+            "question": "Which group played a crucial role in the execution of Beauharnois' grim campaign?",
+            "options": [
+                "French settlers",
+                "British traders",
+                "Indigenous allies",
+                "European diplomats"
+            ],
+            "answer": "Indigenous allies",
+            "id": 234
+        },
+        {
+            "question": "How were the Virginian colonists' position compared to the French during the Fox Wars period?",
+            "options": [
+                "Stronger than the French",
+                "Equivalent to the French",
+                "Weaker than the French",
+                "Not involved in the regional conflicts"
+            ],
+            "answer": "Weaker than the French",
+            "id": 235
+        },
+        {
+            "question": "What turned the tide against the Meskwaki early in the conflict?",
+            "options": [
+                "The Meskwaki's strategic errors",
+                "French military technology",
+                "The Meskwaki's depletion of resources",
+                "The intervention of British forces"
+            ],
+            "answer": "French military technology",
+            "id": 236
+        },
+        {
+            "question": "What misconception about French and Indigenous relations does the text aim to correct?",
+            "options": [
+                "That they were always peaceful",
+                "That they were solely economic",
+                "That they were culturally driven",
+                "That they were always hostile"
+            ],
+            "answer": "That they were always peaceful",
+            "id": 237
+        },
+        {
+            "question": "What river corridor did the Meskwaki control, connecting Lake Michigan to the upper Mississippi valley?",
+            "options": [
+                "The Fox River",
+                "The Wisconsin River",
+                "The Illinois River",
+                "The Mississippi River"
+            ],
+            "answer": "The Fox River",
+            "id": 238
+        },
+        {
+            "question": "Who were the members of the Council of Three Fires?",
+            "options": [
+                "The Potawatomi, Ottawa, and Anishinaabe/Ojibwa",
+                "The Sioux, Meskwaki, and Potawatomi",
+                "The Ottawa, Meskwaki, and Anishinaabe/Ojibwa",
+                "The Potawatomi, Sioux, and Ottawa"
+            ],
+            "answer": "The Potawatomi, Ottawa, and Anishinaabe/Ojibwa",
+            "id": 239
+        },
+        {
+            "question": "Which Indigenous group is referred to as the Fox in historical texts?",
+            "options": [
+                "The Meskwaki",
+                "The Potawatomi",
+                "The Sioux",
+                "The Anishinaabe/Ojibwa"
+            ],
+            "answer": "The Meskwaki",
+            "id": 240
+        },
+        {
+            "question": "What year marked the beginning of the Fox Wars?",
+            "options": [
+                "1700",
+                "1701",
+                "1712",
+                "1728"
+            ],
+            "answer": "1701",
+            "id": 241
+        },
+        {
+            "question": "Where did the first major conflict of the Fox Wars take place?",
+            "options": [
+                "Fort Pontchartrain (Detroit)",
+                "Green Bay",
+                "Fort de Chartres",
+                "Martinique"
+            ],
+            "answer": "Fort Pontchartrain (Detroit)",
+            "id": 242
+        },
+        {
+            "question": "What did the Meskwaki become the target of after the first conflict in the Fox Wars?",
+            "options": [
+                "Trade embargoes",
+                "A campaign of integration",
+                "A lively traffic in Meskwaki slaves",
+                "Diplomatic sanctions"
+            ],
+            "answer": "A lively traffic in Meskwaki slaves",
+            "id": 243
+        },
+        {
+            "question": "Who was the governor of New France during the Fox Wars?",
+            "options": [
+                "Kiala",
+                "Beauharnois",
+                "Cadillac",
+                "Bienville"
+            ],
+            "answer": "Beauharnois",
+            "id": 244
+        },
+        {
+            "question": "What was the fate of the principal Fox chief, Kiala, after the Fox Wars?",
+            "options": [
+                "He was executed",
+                "He was sent to Martinique in slavery",
+                "He became an ally to the French",
+                "He led his people to safety"
+            ],
+            "answer": "He was sent to Martinique in slavery",
+            "id": 245
+        },
+        {
+            "question": "What was Beauharnois's order regarding the remaining Foxes if they did not disperse?",
+            "options": [
+                "They were to be integrated into French society",
+                "They were to be converted to Christianity",
+                "They were to be killed",
+                "They were to be relocated to another territory"
+            ],
+            "answer": "They were to be killed",
+            "id": 246
+        },
+        {
+            "question": "Approximately how many Meskwaki survived the Fox Wars?",
+            "options": [
+                "A few dozen",
+                "A few hundred",
+                "A few thousand",
+                "Their numbers increased"
+            ],
+            "answer": "A few hundred",
+            "id": 247
+        },
+        {
+            "question": "What was one factor that contributed to the Fox Wars?",
+            "options": [
+                "French demand for land",
+                "Meskwaki control of a vital trade route",
+                "Meskwaki aggression towards French settlements",
+                "French political instability"
+            ],
+            "answer": "Meskwaki control of a vital trade route",
+            "id": 248
+        },
+        {
+            "question": "The French relationship with Indigenous nations was generally positive for several reasons except one. Which one is it?",
+            "options": [
+                "They did not demand land concessions",
+                "They behaved as invaders rather than guests",
+                "They maintained alliances through gift diplomacy",
+                "They engaged in lucrative trade"
+            ],
+            "answer": "They behaved as invaders rather than guests",
+            "id": 249
+        },
+        {
+            "question": "What was one result of the Fox Wars for the French in terms of alliances?",
+            "options": [
+                "It weakened their alliances",
+                "It had no impact on their alliances",
+                "It tested and proved the strength of their alliances",
+                "It created new alliances with the British"
+            ],
+            "answer": "It tested and proved the strength of their alliances",
+            "id": 250
+        },
+        {
+            "question": "What did the Fox Wars reveal about the French and Indigenous relations?",
+            "options": [
+                "They were always harmonious",
+                "They were fraught with mutual distrust",
+                "They were sometimes contentious and violent",
+                "They were based solely on economic interests"
+            ],
+            "answer": "They were sometimes contentious and violent",
+            "id": 251
+        },
+        {
+            "question": "What impact did European goods, commerce, and military alliances have in North America?",
+            "options": [
+                "Limited to Canada",
+                "Limited to Acadia",
+                "Limited to the Mississippi Delta",
+                "Far-flung impacts across the middle of North America"
+            ],
+            "answer": "Far-flung impacts across the middle of North America",
+            "id": 252
+        },
+        {
+            "question": "What stance did the French take towards land annexation in North America?",
+            "options": [
+                "They actively sought to annex lands",
+                "They were indifferent to land ownership",
+                "They were not interested in annexing lands",
+                "They wanted to convert all lands to agricultural use"
+            ],
+            "answer": "They were not interested in annexing lands",
+            "id": 253
+        },
+        {
+            "question": "What was a driving factor behind the actions of the French in North America, according to the text?",
+            "options": [
+                "Greed and pride",
+                "Religious fervor",
+                "Desire for peace",
+                "Scientific exploration"
+            ],
+            "answer": "Greed and pride",
+            "id": 254
+        },
+        {
+            "question": "In the context of the Fox Wars, who were the 'western allies' mentioned?",
+            "options": [
+                "British forces",
+                "Other Indigenous nations allied with the French",
+                "Spanish colonies",
+                "Dutch traders"
+            ],
+            "answer": "Other Indigenous nations allied with the French",
+            "id": 255
+        },
+        {
+            "question": "What does the term 'Pays d\u2019en Haut' refer to?",
+            "options": [
+                "The Appalachian Mountains",
+                "The upper Mississippi valley",
+                "The Great Lakes region",
+                "The Ohio Valley"
+            ],
+            "answer": "The Great Lakes region",
+            "id": 256
+        },
+        {
+            "question": "What does the French approach to the remaining Foxes indicate about their colonial policies?",
+            "options": [
+                "They were based on assimilation",
+                "They were genocidal in nature",
+                "They focused on trade partnerships",
+                "They emphasized religious conversion"
+            ],
+            "answer": "They were genocidal in nature",
+            "id": 257
+        },
+        {
+            "question": "What was the Wendat's relation to the Meskwaki, according to the text?",
+            "options": [
+                "They were trade partners",
+                "They displaced them from southern Ontario",
+                "They were allied against the French",
+                "They were indifferent to the Meskwaki"
+            ],
+            "answer": "They displaced them from southern Ontario",
+            "id": 258
+        },
+        {
+            "question": "The French used their Indigenous allies to achieve what outcome against the Foxes?",
+            "options": [
+                "Ensure their trade monopoly",
+                "Extinguish the Fox nation",
+                "Negotiate a lasting peace",
+                "Convert the Foxes to Christianity"
+            ],
+            "answer": "Extinguish the Fox nation",
+            "id": 259
+        },
+        {
+            "question": "What was the consequence for the Virginian colonists' interest in the Ohio Valley at the time of the Fox Wars?",
+            "options": [
+                "It was encouraged by the French",
+                "It led to immediate conflict with the French",
+                "It highlighted the weakness of the French position",
+                "It showed the strength of the French position"
+            ],
+            "answer": "It showed the strength of the French position",
+            "id": 260
+        },
+        {
+            "question": "Which Indigenous nations were positioned to the west of the Council of Three Fires?",
+            "options": [
+                "The Sioux",
+                "The Meskwaki",
+                "The British colonies",
+                "The French outposts"
+            ],
+            "answer": "The Sioux",
+            "id": 261
+        },
+        {
+            "question": "What was the French's ultimate goal in the Fox Wars according to Beauharnois's biographer?",
+            "options": [
+                "Expansion of trade",
+                "Total extermination of the Fox nation",
+                "Conversion of the Indigenous peoples",
+                "Establishing new colonies"
+            ],
+            "answer": "Total extermination of the Fox nation",
+            "id": 262
+        },
+        {
+            "question": "What was the role of gifts in the alliances between the French and Indigenous nations?",
+            "options": [
+                "They were ceremonial tokens",
+                "They were part of wedding customs",
+                "They maintained alliances",
+                "They were tributes of submission"
+            ],
+            "answer": "They maintained alliances",
+            "id": 263
+        },
+        {
+            "question": "What was the Meskwaki's position in the trade between the Council of Three Fires and the Sioux nations?",
+            "options": [
+                "They were competitors",
+                "They were the primary traders",
+                "They were intermediaries",
+                "They were excluded from trade"
+            ],
+            "answer": "They were intermediaries",
+            "id": 264
+        },
+        {
+            "question": "What European country's colonists were considering expansion into the Ohio Valley during the Fox Wars?",
+            "options": [
+                "France",
+                "Spain",
+                "England",
+                "The Netherlands"
+            ],
+            "answer": "England",
+            "id": 265
+        },
+        {
+            "question": "What action by the French demonstrated their approach to diplomacy with Indigenous nations?",
+            "options": [
+                "Sending ambassadors",
+                "Establishing trade schools",
+                "Gift-giving to maintain alliances",
+                "Building fortifications"
+            ],
+            "answer": "Gift-giving to maintain alliances",
+            "id": 266
+        }
+    ]
+}
